@@ -42,7 +42,7 @@ _You can upload an image or draw one using Fritzing._
 1. The sensor reads current temperature & humidity inside the box.
 2. The microcontroller activates the heater if the humidity is high or temperature is below threshold.
 3. The fan circulates air evenly (if present).
-4. The display shows the real-time stats.
+4. The display shows the real-time stats fetched from the sensor.
 5. Filament stays dry and ready to print without moisture-related issues.
 
 ---
